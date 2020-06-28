@@ -31,4 +31,4 @@ The values in the 'tf_idf' column are the feature vectors, which are the input o
 
 The accuracy of the prediction from the test data and a confusion matrix are computed.
 
-Four models are tested - Complement Naive Bayes, SVM, Random Forest, and Deep Learning. Random Forest predicts the data the best.
+Four models are tested - Complement Naive Bayes, SVM, Random Forest, and Deep Learning. SVM predicts the data the best.
